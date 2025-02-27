@@ -1,6 +1,7 @@
 {
   "name": "wrkspace-theme",
   "displayName": "Wrkspace Theme",
+  "repository": "https://github.com/wrkspace-co/vscode-theme.git",
   "description": "",
   "version": "0.0.1",
   "engines": {
