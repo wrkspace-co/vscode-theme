@@ -1,11 +1,12 @@
 {
   "name": "wrkspace-theme",
   "displayName": "Wrkspace Theme",
-  "repository": "https://github.com/wrkspace-co/vscode-theme.git",
-  "description": "",
+  "description": "A wrkspace theme for vscode",
   "version": "0.0.1",
+  "repository": "https://github.com/wrkspace-co/vscode-theme.git",
+  "publisher": "wrkspace",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
@@ -13,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wrkspace Theme",
+        "label": "wrkspace-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wrkspace Theme-color-theme.json"
+        "path": "./themes/wrkspace-theme-color-theme.json"
       }
     ]
   }
