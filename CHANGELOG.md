@@ -4,6 +4,14 @@ All notable changes to the "wrkspace-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.2] - 2025-09-08
 
-- Initial release
+### Changed
+
+- Extension icon
+
+## [0.0.1] - 2025-09-08
+
+### Added
+
+- Initial theme settings
